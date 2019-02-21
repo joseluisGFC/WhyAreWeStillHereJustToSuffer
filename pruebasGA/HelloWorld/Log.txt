@@ -1,0 +1,6 @@
+El codigo lo he obtenido del libro The Nature of Code en específico del capitulo 9 -> https://github.com/nature-of-code/noc-examples-processing
+	video que me ha explicado el codigo https://www.youtube.com/watch?v=-jv3CgDN9sc
+Mis modificaciones
+	1º una función sleep para poder ver bien que esta pasando tomada de https://www.sitepoint.com/delay-sleep-pause-wait/
+
+	 

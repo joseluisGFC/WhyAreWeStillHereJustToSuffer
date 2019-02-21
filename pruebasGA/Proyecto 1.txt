@@ -1,0 +1,20 @@
+Colocar una antena de forma que de la mayor cobertura en un rectangulo:
+
+	.Población -> 20 antenas
+	.Calculo de la destreza -> la antena cuyo totalPerdidas/areaCubierta sea menor
+	.selección -> tomaremos los 10 valores de destreza mas altos para comenzar la reprodución
+	.Como los cruzaremos -> de la antena A tomamos su X
+							de la antena B tomamos su Y
+	.mutación -> posibilidad de 0.1 de que x o y se desvien 300 metros
+
+Necesito
+	.Ser capaz de crear y conocer los limites del rectangulo
+	.Ser capaz de calcular la coberturaTotal y areaCubierta
+
+
+
+Futuros Proyectos
+	.Ser capaz de rellenar un rectangulo con el menor numero de antenas posibles
+		..Necesito
+			...Puntos intermedios que sean cubiertos por 2 antenas deberan mostrar el valor de perdida
+			   mas bajo entre las dos.
